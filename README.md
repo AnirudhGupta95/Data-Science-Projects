@@ -1,4 +1,4 @@
-1. This repository contains project on Total Credit Card Spending prediction of customers of a bank.
+1. This repository contains project on Total Credit Card Spending Prediction of customers of a bank.
 
 2. Since we have documented our efforts we are not describing much here.
 
